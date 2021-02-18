@@ -21,7 +21,7 @@
 
         <!-- MAIN -->
         <main>
-            <h2>¡Bienvenid@ al Club deportivo Dunes Kite Piles! PRds</h2>
+            <h2>¡Bienvenid@ al Club deportivo Dunes Kite Piles!</h2>
 
             <!-- Weather apis -->
             <section class="weatherCarrousel">
