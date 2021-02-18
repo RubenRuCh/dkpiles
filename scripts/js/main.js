@@ -12,9 +12,13 @@ function toggleBurger() {
 
 function loadComponents(current = 'Home') {
   // Core components
+  /* Now is loaded via PHP
   $('header').load('assets/components/header.html', () => {
     $('li').filter(`:contains(${current})`).addClass('current');
   });
   $('aside').load('assets/components/aside.html');
   $('footer').load('assets/components/footer.html');
+   */
+
+  $('li').filter(`:contains(${current})`).addClass('current'); // keep this
 }

@@ -17,7 +17,9 @@
 <body>
     <div class="container">
         <!-- HEADER -->
-        <header class="header"></header>
+        <header class="header">
+          <?php require "./assets/components/header.html" ?>
+        </header>
 
         <!-- MAIN -->
         <main>
