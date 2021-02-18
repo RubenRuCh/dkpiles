@@ -41,7 +41,7 @@
                             document.querySelector('span#loading').innerHTML = "";
                         });
                         var tag = document.getElementsByTagName("script")[0];
-                        script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
+                        script.src = "https://www.windguru.cz/js/widget?"+(arg.join("&"));
                         tag.parentNode.insertBefore(script, tag);
                         };
                         window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
