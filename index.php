@@ -17,9 +17,7 @@
 <body>
     <div class="container">
         <!-- HEADER -->
-        <header class="header">
-          <?php require "./assets/components/header.html" ?>
-        </header>
+        <header class="header"><?php require "./assets/components/header.html" ?></header>
 
         <!-- MAIN -->
         <main>
@@ -189,11 +187,11 @@
         </main>
 
         <!-- ASIDE -->
-        <aside></aside>
+        <aside><?php require "./assets/components/aside.html" ?></aside>
        
 
         <!-- FOOTER -->
-        <footer></footer>
+        <footer><?php require "./assets/components/footer.html" ?></footer>
     </div>
  
      <!-- Optional JavaScript -->
