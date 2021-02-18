@@ -1,0 +1,445 @@
+/* RESET */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root{
+    font-size: 14px;
+    --primary-color: rgba(13, 110, 139, 0.75);
+    --overlay-color: rgba(24, 39, 51 , 0.95);
+    --black: #040F16;
+    --dark-blue: #000022;
+    --oceanic-blue: #001242;
+    --sea-blue: #005E7C;
+    --blue: #0094C6;
+    --menu-speed: 0.75s;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.4;
+}
+
+h1, h2, h3{ text-align: center; }
+
+
+h3{
+    margin-bottom: 2rem;
+}
+
+
+div.container{
+  padding: 0;
+  margin: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: auto 1fr auto auto;
+  grid-template-areas:"hed"
+                      "mai"
+                      "asi"
+                      "fot";
+}
+
+
+/* By default, show mobile divs and hide pc ones */ 
+div.mobile {
+  display: block;
+}
+
+div.pc{
+  display: none;
+}
+
+
+/* On PC views, show pc divs and hide mobile divs */
+@media (min-width: 768px) {
+  :root{ font-size: 16px; }
+
+  div.container{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:"hed hed hed hed"
+                        "mai mai mai asi"
+                        "fot fot fot fot";
+  }
+
+  div.mobile {
+    display: none;
+  }
+  
+  div.pc{
+    display: block;
+  }
+}
+
+
+/* HEADER */
+header{
+    display: grid;
+    grid-template-columns: 50fr 1fr;
+    grid-area: hed;
+}
+
+header section#logo{
+ /* Location of the image */
+ background-image: url(../media/logo-olas-min.png), linear-gradient(to bottom, #e62908, #BC2909, #BA6D09, #71A8EE, #3072EB, #1552C6, #0542A8);
+  
+ /* Background image is centered vertically and horizontally at all times */
+ /* background-position: center center; */
+ background-position: 0 55%;
+ 
+ /* Background image doesn't tile */
+ background-repeat: no-repeat;
+ 
+ /* This is what makes the background image rescale based
+    on the container's size */
+ background-size: cover;
+ 
+ /* Set a background color that will be displayed
+    while the background image is loading */
+ background-color: #0542A8;
+}
+
+@media (min-width: 768px) {
+  header{
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+  }
+}
+
+
+
+
+
+/* MENU STYLES */
+.menu-wrap{
+  width: 100%;
+  height: 100%;
+}
+
+.menu-wrap .toggler {
+  opacity: 0;
+  display: none;
+}
+
+.menu-wrap .hamburger {
+  width: 60px;
+  height: 60px;
+  padding: 1rem;
+  margin: 0;
+  background: var(--primary-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: 1px solid var(--sea-blue);
+}
+
+
+
+
+/* Hamburger Line */
+.menu-wrap .hamburger > div {
+  position: relative;
+  flex: none;
+  width: 100%;
+  height: 2px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.4s ease;
+}
+
+
+
+/* Hamburger Lines - Top & Bottom */
+.menu-wrap .hamburger > div::before,
+.menu-wrap .hamburger > div::after {
+  content: '';
+  position: absolute;
+  z-index: 1;
+  top: -10px;
+  width: 100%;
+  height: 2px;
+  background: inherit;
+}
+
+
+/* Moves Line Down */
+.menu-wrap .hamburger > div::after {
+  top: 10px;
+}
+
+
+/* Toggler Animation */
+.menu-wrap .toggler:checked + .hamburger > div {
+  transform: rotate(135deg);
+}
+
+
+/* Turns Lines Into X */
+.menu-wrap .toggler:checked + .hamburger > div:before,
+.menu-wrap .toggler:checked + .hamburger > div:after {
+  top: 0;
+  transform: rotate(90deg);
+}
+
+
+/* Rotate On Hover When Checked */
+.menu-wrap .toggler:checked:hover + .hamburger > div {
+  transform: rotate(225deg);
+}
+
+
+/* Show Menu */
+.menu-wrap .toggler:checked ~ .menu {
+  visibility: visible;
+}
+
+
+.menu-wrap .toggler:checked ~ .menu > div {
+  transform: scale(1);
+  transition-duration: var(--menu-speed);
+}
+
+
+.menu-wrap .toggler:checked ~ .menu > div > nav {
+  opacity: 1;
+  transition:  opacity 0.4s ease 0.4s;
+}
+
+
+.menu-wrap .menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  visibility: hidden;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu-wrap .menu > div {
+  background: var(--overlay-color);
+  border-radius: 50%;
+  width: 200vw;
+  height: 200vw;
+  display: flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  transform: scale(0);
+  transition: all 0.4s ease;
+}
+
+.menu-wrap .menu > div > nav {
+  text-align: center;
+  max-width: 90vw;
+  max-height: 100vh;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.menu-wrap .menu > div > nav > ul > li {
+  list-style: none;
+  color: #fff;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+.menu-wrap .menu > div > nav > ul > li.current {
+  color: #0094c6;
+}
+
+.menu-wrap .menu > div > nav > ul > li > a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.4s ease;
+}
+
+.menu-wrap .menu > div > nav > ul > li > a:hover {
+  color: var(--sea-blue);
+}
+
+
+/* Add a black background color to the top navigation */
+div.pc .topnav {
+  background-color: #333;
+  overflow: hidden;
+  height: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+/* Style the links inside the navigation bar */
+div.pc .topnav li a{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 1rem;
+    width: 20%;
+    height: 8rem;
+    border: 1px solid grey;
+}
+
+
+
+
+/* Change the color of links on hover */
+div.pc .topnav a:hover {
+  background-color: #ddd;
+  color: var(--black);
+}
+
+/* Add an active class to highlight the current page */
+div.pc .topnav li.current a {
+  background-color: var(--blue);
+  color: white;
+}
+
+
+
+
+/** MAIN **/
+main{
+  grid-area: mai;
+  max-height: 70vh;
+  overflow: auto;
+  padding: 0 1rem;
+}
+
+@media (min-width: 768px) {
+  main{
+    max-height: none;
+    /*margin: 0 auto;*/
+    overflow: auto;
+    padding: 2rem;
+  }
+}
+
+
+
+/** ASIDE **/
+aside { 
+  grid-area: asi;
+  border: 1px solid var(--oceanic-blue);
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  padding: 0.5rem;
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-areas: "log nws wdy";
+  text-align: center;
+  background-color: var(--overlay-color);
+}
+
+aside button[data-toggle='modal']{
+  padding: 1.5rem;
+  background-color: var(--blue);
+}
+
+aside section.login{
+  grid-area: log;
+}
+
+aside section.news{
+  grid-area: nws;
+}
+
+aside section.windy{
+  grid-area: wdy;
+}
+
+
+#windyModal .modal-dialog {
+  width: 100%;
+  height: 95%;
+  margin: 0;
+  padding: 0;
+}
+
+#windyModal .modal-content {
+  height: auto;
+  min-height: 95%;
+  border-radius: 0;
+}
+
+
+#windyMobile{
+  width: 100%;
+  height: 80vh;
+}
+
+
+/* Small tablets */
+@media (min-width: 576px) {
+  #windyModal .modal-dialog {
+    margin: 1.75rem auto;
+  }
+}
+
+
+
+
+@media (min-width: 768px) {
+  aside { 
+    border-bottom-left-radius: 0.5rem;
+    border-top-right-radius: 0;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: "log" 
+                         "wdy" 
+                         "nws" ;
+  }
+  
+
+  aside section{
+    padding: 1rem;
+    margin: 1rem;
+    height: fit-content;
+    background-color: lightgrey;
+    border: 1px solid var(--oceanic-blue);
+    
+  }
+  
+  #windyPC{
+    width: 100%;
+    height: 50vh;
+  }
+
+
+}
+
+
+/** FOOTER **/
+footer {
+  grid-area: fot;
+  /*position: fixed;
+  left: 0;
+  bottom: 0;*/
+  width: 100%;
+  background-color: var(--black);
+  color: white;
+  text-align: center;
+}
