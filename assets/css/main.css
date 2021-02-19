@@ -64,6 +64,12 @@ div.pc{
 
 /* On PC views, show pc divs and hide mobile divs */
 @media (min-width: 768px) {
+  html, body {
+    width: 90%;
+    max-width: 1000px;
+  }
+
+
   :root{ font-size: 16px; }
 
   div.container{
