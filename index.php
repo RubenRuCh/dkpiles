@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="./assets/css/index.css">
 
     <script src="./scripts/js/main.js"></script>
-    <script id="widg" src="http://www.windguru.cz/js/wgs_widget"></script>
+    
 </head>
 <body>
     <div class="container">
@@ -207,6 +207,7 @@
     </script>
 
     <!-- Prev -->
+    <script id="widg" src="http://www.windguru.cz/js/wgs_widget"></script>
     <script type="text/javascript">
         function llamarWidget(){
             WgsWidget({
