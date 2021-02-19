@@ -373,10 +373,10 @@ aside section.windy{
 
 
 #windyModal .modal-dialog {
-  width: 100%;
+  width: 96%;
   height: 95%;
-  margin: 0;
-  padding: 0;
+  /* margin: 0;
+  padding: 0; */
 }
 
 #windyModal .modal-content {
