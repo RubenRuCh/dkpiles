@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="./assets/css/index.css">
 
     <script src="./scripts/js/main.js"></script>
-    
+    <script id="widg" src="http://www.windguru.cz/js/wgs_widget"></script>
 </head>
 <body>
     <div class="container">
@@ -46,19 +46,17 @@
                         <span id="loading">Cargando vientos...</span>
                         <!-- Meteo -->
                         <script id="wg_fwdg_504236_3_1612197394034">
-                        (function (window, document) {
+                          (function (window, document) {
                             var loader = function () {
-                            var arg = ["s=504236" ,"m=3","uid=wg_fwdg_504236_3_1612197394034" ,"wj=knots" ,"tj=c" ,"waj=m" ,"odh=0" ,"doh=24" ,"fhours=240" ,"hrsm=3" ,"vt=forecasts" ,"lng=es" ,"p=WINDSPD,GUST,MWINDSPD,SMER,TMPE,FLHGT,CDC,APCP1s,RATING"];
-                            var script = document.createElement("script");
-                            script.addEventListener("load", () => {
-                                document.querySelector('span#loading').innerHTML = "";
-                            });
-                            var tag = document.getElementsByTagName("script")[0];
-                            script.src = "https://www.windguru.cz/js/widget?"+(arg.join("&"));
-                            tag.parentNode.insertBefore(script, tag);
+                              var arg = ["s=504236" ,"m=3","uid=wg_fwdg_504236_3_1612197394034" ,"wj=knots" ,"tj=c" ,"waj=m" ,"odh=0" ,"doh=24" ,"fhours=240" ,"hrsm=3" ,"vt=forecasts" ,"lng=es" ,"p=WINDSPD,GUST,MWINDSPD,SMER,TMPE,FLHGT,CDC,APCP1s,RATING"];
+                              var script = document.createElement("script");
+                              var tag = document.getElementsByTagName("script")[0];
+                              script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
+                              tag.parentNode.insertBefore(script, tag);
                             };
+
                             window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
-                        })(window, document);
+                            })(window, document);
                         </script>
                     </div> 
                     </div>
@@ -207,7 +205,6 @@
     </script>
 
     <!-- Prev -->
-    <script id="widg" src="http://www.windguru.cz/js/wgs_widget"></script>
     <script type="text/javascript">
         function llamarWidget(){
             WgsWidget({
