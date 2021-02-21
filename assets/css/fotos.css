@@ -11,14 +11,18 @@
 .eapps-instagram-feed-posts-grid-load-more-text-visible {
     cursor: pointer;
     color: #fff;
-    background: none !important;
     background-color: #109499;
     box-shadow: 0 9px #999;
     border: 1px solid lightgrey;
     border-radius: 1rem;
-  }
+}
 
-  
+.eapps-instagram-feed-posts-grid-load-more{
+    background: none !important;
+}
+
+
+
 .eapps-instagram-feed-posts-grid-load-more-text-visible:active {
     background-color: #370f77;
     box-shadow: 0 5px #666;
