@@ -63,8 +63,8 @@
 
                 $(".eapps-instagram-feed-posts-grid-load-more-text-visible").click(() => {
                     setTimeout(() => {
-                    console.log('pabajo');
                     console.log($("div.eapps-instagram-feed-posts-view:last"));
+                    console.log($("div.eapps-instagram-feed-posts-view:last").offset().top);
                     $('html, body').animate({
                         scrollTop: $("div.eapps-instagram-feed-posts-view:last").offset().top
                     }, 1000);
