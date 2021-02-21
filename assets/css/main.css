@@ -408,12 +408,13 @@ aside section.windy{
   grid-area: wdy;
 }
 
-
+/*
 #windyModal .modal-dialog {
+  
   width: 96%;
   height: 90%;
-  /* margin: 0;
-  padding: 0; */
+  margin: 0;
+  padding: 0; 
 }
 
 #windyModal .modal-content {
@@ -421,11 +422,11 @@ aside section.windy{
   min-height: 90%;
   border-radius: 0;
 }
-
+*/
 
 #windyMobile{
   width: 100%;
-  height: 50rem;
+  height: 45rem;
 }
 
 
