@@ -40,7 +40,7 @@
           
 
                 <br><br><h2>DATOS PERSONALES QUE RECABAMOS Y CÓMO LO HACEMOS</h2>
-                <p>Leer Política de Privacidad</p>
+                <p>Leer <a href="https://policies.google.com/privacy?hl=es">Política de Privacidad</a></p>
                 
 
                 <br><br><h2>COMPROMISOS Y OBLIGACIONES DE LOS USUARIOS</h2>
