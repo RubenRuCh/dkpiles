@@ -50,9 +50,10 @@
                 document.querySelector('a.eapps-link').style.display = 'none';
                }, 1000);
 
-               setTimeout(() => {
+            setTimeout(() => {
                 $("div.eapps-widget-show-toolbar").addClass('scrollable');
-               }, 3000);
+                $("div.eapps-widget-show-toolbar").attr('style', 'overflow: hidden !important; overflow-y: auto !important; -webkit-overflow-scrolling: touch !important;');
+            }, 3000);
                
         };
     </script>
