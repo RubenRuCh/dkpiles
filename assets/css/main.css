@@ -473,9 +473,7 @@ aside section.windy{
 /** FOOTER **/
 footer {
   grid-area: fot;
-  /*position: fixed;
-  left: 0;
-  bottom: 0;*/
+  padding: 3rem;
   width: 100%;
   background-color: var(--black);
   color: white;
