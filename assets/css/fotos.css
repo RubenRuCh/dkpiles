@@ -8,7 +8,7 @@
 }
 
 
-div.scrollable .button {
+div.scrollable .eapps-instagram-feed-posts-grid-load-more-text-visible {
     padding: 15px 25px;
     font-size: 24px;
     text-align: center;
@@ -21,9 +21,9 @@ div.scrollable .button {
     box-shadow: 0 9px #999;
   }
   
-  div.scrollable .button:hover {background-color: #1a29ad}
+  div.scrollable .eapps-instagram-feed-posts-grid-load-more-text-visible:hover {background-color: #1a29ad}
   
-  div.scrollable .button:active {
+  div.scrollable .eapps-instagram-feed-posts-grid-load-more-text-visible:active {
     background-color: #370f77;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
