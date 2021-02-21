@@ -322,7 +322,7 @@ div.pc .topnav li.current a {
 
 
 /* Languages */
-header div.pc section#languages{
+section#languages{
   flex: 10%;
   display: none;
   flex-direction: row;
@@ -334,7 +334,7 @@ header div.pc section#languages{
   border: 1px solid lightgrey;
 }
 
-header div.pc section#languages > img{
+section#languages > img{
   margin: 0.5rem;
   width: 4rem;
   cursor: pointer;
@@ -342,7 +342,7 @@ header div.pc section#languages > img{
 
 
 @media (min-width: 1350px) {
-  header div.pc section#languages{
+  section#languages{
     display: flex;
   }
 
