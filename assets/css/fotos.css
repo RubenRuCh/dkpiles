@@ -6,3 +6,25 @@
     overflow-y: auto !important;
     -webkit-overflow-scrolling: touch !important;
 }
+
+
+div.scrollable .button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #109499;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  div.scrollable .button:hover {background-color: #1a29ad}
+  
+  div.scrollable .button:active {
+    background-color: #370f77;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
