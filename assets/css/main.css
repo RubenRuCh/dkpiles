@@ -302,7 +302,7 @@ div.pc .topnav li a{
     text-decoration: none;
     font-size: 17px;
     padding: 1rem;
-    width: 15%;
+    width: 20%;
     height: 8rem;
     border: 1px solid grey;
 }
@@ -344,6 +344,10 @@ header div.pc section#languages > img{
 @media (min-width: 1350px) {
   header div.pc section#languages{
     display: flex;
+  }
+
+  div.pc .topnav li a{
+    width: 15%;
   }
 }
 
