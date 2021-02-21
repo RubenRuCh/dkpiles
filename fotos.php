@@ -65,7 +65,7 @@
                 $(".eapps-instagram-feed-posts-grid-load-more-text-visible").click(() => {
                     setTimeout(() => {
                         $('html, body, main, div.eapps-instagram-feed-posts-inner').animate({
-                            scrollTop: $(this).prop("height")}, 1000);
+                            scrollTop: $(this).scrollHeight}, 1000);
                     }, 2000);
                 });;
 
