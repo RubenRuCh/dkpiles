@@ -69,8 +69,8 @@ section.history ul.directiva{
 
 /* Lema */
 span.lema{
-    text-align: center;
     font-style: italic;
+    font-size: 120%;
 }
 
 
