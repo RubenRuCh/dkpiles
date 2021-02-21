@@ -31,18 +31,19 @@
                     Esta web, por tanto, cumple rigurosamente con el RGPD (REGLAMENTO (UE) 2016/679 de protección de datos) y la LSSI-CE la Ley 34/2002, de 11 de julio, 
                     de servicios de la sociedad de la información y de comercio electrónico.</p>
         
-                <h2>CONDICIONES GENERALES DE USO</h2>
+                    
+                <br><br><h2>CONDICIONES GENERALES DE USO</h2>
                 
                 <p>Las presentes Condiciones Generales regulan el uso (incluyendo el mero acceso) de las páginas de la web, integrantes del sitio web de dkpiles.es 
                     incluidos los contenidos y servicios puestos a disposición en ellas. Toda persona que acceda a la web, dkpiles.es (“Usuario”) acepta someterse a las 
                     Condiciones Generales vigentes en cada momento del portal dkpiles.es</p>
           
 
-                <h2>DATOS PERSONALES QUE RECABAMOS Y CÓMO LO HACEMOS</h2>
+                <br><br><h2>DATOS PERSONALES QUE RECABAMOS Y CÓMO LO HACEMOS</h2>
                 <p>Leer Política de Privacidad</p>
                 
 
-                <h2>COMPROMISOS Y OBLIGACIONES DE LOS USUARIOS</h2>
+                <br><br><h2>COMPROMISOS Y OBLIGACIONES DE LOS USUARIOS</h2>
                 <p>El Usuario queda informado, y acepta, que el acceso a la presente web no supone, en modo alguno, el inicio de una relación comercial con dkpiles.es. De esta forma, 
                     el usuario se compromete a utilizar el sitio Web, sus servicios y contenidos sin contravenir la legislación vigente, la buena fe y el orden público.
                 Queda prohibido el uso de la web, con fines ilícitos o lesivos, o que, de cualquier forma, puedan causar perjuicio o impedir el normal funcionamiento del sitio web.
@@ -57,7 +58,7 @@
                 documentos electrónicos y ficheros contenidos en los mismos.</p>
                 
       
-                <h2>MEDIDAS DE SEGURIDAD</h2>
+                <br><br><h2>MEDIDAS DE SEGURIDAD</h2>
                 <p>Los datos personales comunicados por el usuario a dkpiles.es pueden ser almacenados en bases de datos automatizadas o no, cuya titularidad corresponde en exclusiva a 
                     dkpiles.es, asumiendo ésta todas las medidas de índole técnica, organizativa y de seguridad que garantizan la confidencialidad, integridad y calidad de la información 
                     contenida en las mismas de acuerdo con lo establecido en la normativa vigente en protección de datos.</p>
@@ -65,7 +66,7 @@
                 <p>La comunicación entre los usuarios y dkpiles.es utiliza un canal seguro, y los datos transmitidos son cifrados gracias a protocolos a https, por tanto, garantizamos las mejores condiciones de seguridad para que la confidencialidad de los usuarios esté garantizada.</p>
    
 
-                <h2>RECLAMACIONES</h2>
+                <br><br><h2>RECLAMACIONES</h2>
 
                 <p>dkpiles.es informa que existen hojas de reclamación a disposición de usuarios y clientes. El Usuario podrá realizar reclamaciones solicitando su hoja de reclamación o 
                     remitiendo un correo electrónico a DKPiles@gmail.com indicando su nombre y apellidos, el servicio y/o producto adquirido y exponiendo los motivos de su reclamación.</p>
@@ -81,11 +82,11 @@
                 Fecha: 
                 Motivo de la reclamación:</p>
 
-                <h2>PLATAFORMA DE RESOLUCIÓN DE CONFLICTOS</h2>
+                <br><br><h2>PLATAFORMA DE RESOLUCIÓN DE CONFLICTOS</h2>
                 <p>Por si puede ser de tu interés, para someter tus reclamaciones puedes utilizar también la plataforma de resolución de litigios que facilita la Comisión Europea y 
                     que se encuentra disponible en el siguiente enlace: http://ec.europa.eu/consumers/odr/</p>
     
-                <h2>DERECHOS DE PROPIEDAD INTELECTUAL E INDUSTRIAL</h2>
+                <br><br><h2>DERECHOS DE PROPIEDAD INTELECTUAL E INDUSTRIAL</h2>
                 <p>En virtud de lo dispuesto en los artículos 8 y 32.1, párrafo segundo, de la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, 
                     la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, 
                     con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de dkpiles.es. El usuario se compromete a respetar los derechos 
@@ -101,7 +102,7 @@
                  y declaración expresa en la que el interesado se responsabiliza de la veracidad de las informaciones facilitadas en la notificación</p>
 
 
-                <h2>ENLACES EXTERNOS</h2>
+                <br><br><h2>ENLACES EXTERNOS</h2>
                 <p>Las páginas de la web dkpiles.es podrían proporcionar enlaces a otros sitios web propios y contenidos que son propiedad de terceros. El único objeto de los enlaces es 
                     proporcionar al Usuario la posibilidad de acceder a dichos enlaces. dkpiles.es no se responsabiliza en ningún caso de los resultados que puedan derivarse al Usuario 
                     por acceso a dichos enlaces.
@@ -115,7 +116,7 @@
                 de dkpiles.es El establecimiento del enlace no implica en ningún caso la existencia de relaciones entre dkpiles.es y el propietario del sitio en el que se establezca 
                 el enlace, ni la aceptación o aprobación por parte de dkpiles.es de sus contenidos o servicios</p>
 
-                <h2>POLÍTICA DE COMENTARIOS</h2>
+                <br><br><h2>POLÍTICA DE COMENTARIOS</h2>
                 <p>                En nuestra web se permiten realizar comentarios para enriquecer los contenidos y realizar consultas. No se admitirán comentarios que no estén relacionados
                      con la temática de esta web, que incluyan difamaciones, agravios, insultos, ataques personales o faltas de respeto en general hacia el autor o hacia otros miembros. 
                      También serán suprimidos los comentarios que contengan información que sea obviamente engañosa o falsa, así como los comentarios que contengan información personal, 
@@ -124,7 +125,7 @@
                 No se permiten comentarios anónimos, así como aquellos realizados por una misma persona con distintos apodos. No se considerarán tampoco aquellos comentarios que intenten
                  forzar un debate o una toma de postura por otro usuario.</p>
 
-                <h2>EXCLUSIÓN DE GARANTÍAS Y RESPONSABILIDAD</h2>
+                <br><br><h2>EXCLUSIÓN DE GARANTÍAS Y RESPONSABILIDAD</h2>
                 <p>El Prestador no otorga ninguna garantía ni se hace responsable, en ningún caso, de los daños y perjuicios de cualquier naturaleza que pudieran traer causa de:
                 La falta de disponibilidad, mantenimiento y efectivo funcionamiento de la web, o de sus servicios y contenidos
                 La existencia de virus, programas maliciosos o lesivos en los contenidos
@@ -133,10 +134,10 @@
                 El prestador no se hace responsable bajo ningún concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente página web</p>
                 
 
-                <h2>LEY APLICABLE Y JURISDICCIÓN</h2>
+                <br><br><h2>LEY APLICABLE Y JURISDICCIÓN</h2>
                 <p>Con carácter general las relaciones entre dkpiles.es con los Usuarios de sus servicios telemáticos, presentes en esta web se encuentran sometidas a la legislación y jurisdicción españolas y a los tribunales.</p>
        
-                <h2>CONTACTO</h2>
+                <br><br><h2>CONTACTO</h2>
                 <p>En caso de que cualquier Usuario tuviese alguna duda acerca de estas Condiciones legales o cualquier comentario sobre el portal dkpiles.es, por favor diríjase a 
                     DKPiles@gmail.com
                 De parte del equipo que formamos Club Náutico DKPiles te agradecemos el tiempo dedicado en leer este Aviso Legal</p>
