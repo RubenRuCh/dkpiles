@@ -324,7 +324,7 @@ div.pc .topnav li.current a {
 /* Languages */
 section.languages{
   flex: 10%;
-  display: none;
+  display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -332,6 +332,7 @@ section.languages{
   align-content: space-evenly;
   columns: 2;
   border: 1px solid lightgrey;
+  border-radius: 2rem;
 }
 
 section.languages > img{
@@ -340,6 +341,11 @@ section.languages > img{
   cursor: pointer;
 }
 
+@media (min-width: 768px) {
+  section.languages{
+    display: none;
+  }
+}
 
 @media (min-width: 1350px) {
   section.languages{
