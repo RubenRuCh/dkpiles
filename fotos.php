@@ -51,8 +51,8 @@
                }, 1000);
 
             setTimeout(() => {
-                $("eapps-instagram-feed-posts-inner").addClass('scrollable');
-                $("eapps-instagram-feed-posts-inner").attr('style', 'overflow: hidden !important; overflow-y: auto !important; -webkit-overflow-scrolling: touch !important;');
+                $("div.eapps-instagram-feed-posts-inner").addClass('scrollable');
+                $("div.eapps-instagram-feed-posts-inner").attr('style', 'overflow: hidden !important; overflow-y: auto !important; -webkit-overflow-scrolling: touch !important;');
             }, 3000);
                
         };
