@@ -473,12 +473,18 @@ aside section.windy{
 /** FOOTER **/
 footer {
   grid-area: fot;
-  padding: 3rem;
   width: 100%;
   background-color: var(--black);
   color: white;
   text-align: center;
 }
+
+@media (min-width: 576px) {
+  footer {
+    padding: 3rem;
+  }
+}
+
 
 footer ul {
   padding:0;
