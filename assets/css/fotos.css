@@ -6,3 +6,7 @@
     overflow-y: auto !important;
     -webkit-overflow-scrolling: touch !important;
 }
+
+main{
+   overflow-y: auto; 
+}
