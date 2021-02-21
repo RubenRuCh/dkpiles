@@ -22,9 +22,8 @@
 }
 
 
-
 .eapps-instagram-feed-posts-grid-load-more-text-visible:active {
-    background-color: #370f77;
+    background-color: var(--blue);
     box-shadow: 0 5px #666;
     transform: translateY(4px);
   }
