@@ -40,6 +40,7 @@
                               var tag = document.getElementsByTagName("script")[0];
                               script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
                               tag.parentNode.insertBefore(script, tag);
+                              document.querySelector("span#loading").innerText = '';
                             };
 
                             window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
