@@ -63,11 +63,9 @@
 
                 $(".eapps-instagram-feed-posts-grid-load-more-text-visible").click(() => {
                     setTimeout(() => {
-                    console.log($("div.eapps-instagram-feed-posts-view:last"));
-                    console.log($("div.eapps-instagram-feed-posts-view:last").offset().top);
                     $('html, body, main, div.eapps-instagram-feed-posts-inner').animate({
-                        scrollTop: $("div.eapps-instagram-feed-posts-view:last").offset().top
-                    }, 1000);
+                        scrollTop: $("div.eapps-instagram-feed-posts-item-loaded:last").offset().top
+                    }, 500);
                 }, 1000);
 
                 });;
