@@ -22,103 +22,126 @@
 
         <!-- MAIN -->
         <main>
-            <h1>Términos de uso y política de privacidad</h1>
-            <h2 dir="ltr" style="line-height:2.172342857142857;margin-top:18pt;margin-bottom:4pt;"><span style="font-size:17.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Aviso legal y t&eacute;rminos de uso</span></h2>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">En este espacio, el USUARIO, podr&aacute; encontrar toda la información relativa a los t&eacute;rminos y condiciones legales que definen las relaciones entre los usuarios y nosotros como responsables de esta web. Como usuario, es importante que conozcas estos t&eacute;rminos antes de continuar tu navegación. Club N&aacute;utico DKPiles, como responsable de esta web, asume el compromiso de procesar la información de nuestros usuarios y clientes con plenas garantías y cumplir con los requisitos nacionales y europeos que regulan la recopilación y uso de los datos personales de nuestros usuarios. Esta web, por tanto, cumple rigurosamente con el RGPD (REGLAMENTO (UE) 2016/679 de protección de datos) y la LSSI-CE la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.</span></p>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">CONDICIONES GENERALES DE USO</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Las presentes Condiciones Generales regulan el uso (incluyendo el mero acceso) de las p&aacute;ginas de la web, integrantes del sitio web de dkpiles.es incluidos los contenidos y servicios puestos a disposición en ellas. Toda persona que acceda a la web, dkpiles.es (&ldquo;Usuario&rdquo;) acepta someterse a las Condiciones Generales vigentes en cada momento del portal dkpiles.es.</span></p>
-            <p><br></p>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">DATOS PERSONALES QUE RECABAMOS Y CóMO LO HACEMOS</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Leer&nbsp;</span><a href="https://policies.google.com/privacy?hl=es" style="text-decoration:none;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#039be5;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Política de Privacidad</span></a></p>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">COMPROMISOS Y OBLIGACIONES DE LOS USUARIOS</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">El Usuario queda informado, y acepta, que el acceso a la presente web no supone, en modo alguno, el inicio de una relación comercial con dkpiles.es. De esta forma, el usuario se compromete a utilizar el sitio Web, sus servicios y contenidos sin contravenir la legislación vigente, la buena fe y el orden p&uacute;blico.</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Queda prohibido el uso de la web, con fines ilícitos o lesivos, o que, de cualquier forma, puedan causar perjuicio o impedir el normal funcionamiento del sitio web. Respecto de los contenidos de esta web, se prohíbe:&nbsp;</span></p>
-            <ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
-                <li>
-                    Su reproducción, distribución o modificación, total o parcial, a menos que se cuente con la autorización de sus legítimos titulares
-                </li>
-                <li>
-                   Cualquier vulneración de los derechos del prestador o de los legítimos titulares
-                </li>
-                <li>
-                    Su utilización para fines comerciales o publicitarios.
-                </li>
-            </ul>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">En la utilización de la web, dkpiles.es, el Usuario se compromete a no llevar a cabo ninguna conducta que pudiera dañar la imagen, los intereses y los derechos de dkpiles.es o de terceros o que pudiera dañar, inutilizar o sobrecargar el portal dkpiles.es o que impidiera, de cualquier forma, la normal utilización de la web. No obstante, el Usuario debe ser consciente de que las medidas de seguridad de los sistemas inform&aacute;ticos en Internet no son enteramente fiables y que, por tanto dkpiles.es no puede garantizar la inexistencia de virus u otros elementos que puedan producir alteraciones en los sistemas inform&aacute;ticos (software y hardware) del Usuario o en sus documentos electrónicos y ficheros contenidos en los mismos.</span></p>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">MEDIDAS DE SEGURIDAD</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Los datos personales comunicados por el usuario a dkpiles.es pueden ser almacenados en bases de datos automatizadas o no, cuya titularidad corresponde en exclusiva a dkpiles.es, asumiendo &eacute;sta todas las medidas de índole t&eacute;cnica, organizativa y de seguridad que garantizan la confidencialidad, integridad y calidad de la información contenida en las mismas de acuerdo con lo establecido en la normativa vigente en protección de datos.</span></p>
-            <p><br></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">La comunicación entre los usuarios y dkpiles.es utiliza un canal seguro, y los datos transmitidos son cifrados gracias a protocolos a https, por tanto, garantizamos las mejores condiciones de seguridad para que la confidencialidad de los usuarios est&eacute; garantizada.</span></p>
-            <p><br></p>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">RECLAMACIONES</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">dkpiles.es informa que existen hojas de reclamación a disposición de usuarios y clientes. El Usuario podr&aacute; realizar reclamaciones solicitando su hoja de reclamación o remitiendo un correo electrónico a&nbsp;</span><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#039be5;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">DKPiles@gmail.com</span><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;indicando su nombre y apellidos, el servicio y/o producto adquirido y exponiendo los motivos de su reclamación.</span></p>
-            <p><br></p>
-            <p><br></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">El usuario/comprador podr&aacute; notificarnos la reclamación, bien a trav&eacute;s de correo electrónico a:&nbsp;</span><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#039be5;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">DKPiles@gmail.com</span><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">, si lo desea adjuntando el siguiente formulario de reclamación:&nbsp;</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">El servicio/producto:&nbsp;</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Adquirido el día:&nbsp;</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Nombre del usuario:&nbsp;</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Domicilio del usuario:&nbsp;</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Firma del usuario (solo si se presenta en papel):&nbsp;</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Fecha:&nbsp;</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Motivo de la reclamación:</span></p>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">PLATAFORMA DE RESOLUCIóN DE CONFLICTOS</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Por si puede ser de tu inter&eacute;s, para someter tus reclamaciones puedes utilizar tambi&eacute;n la plataforma de resolución de litigios que facilita la Comisión Europea y que se encuentra disponible en el siguiente enlace:&nbsp;</span><a href="http://ec.europa.eu/consumers/odr/" style="text-decoration:none;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#039be5;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">http://ec.europa.eu/consumers/odr/</span></a></p>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">DERECHOS DE PROPIEDAD INTELECTUAL E INDUSTRIAL</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">En virtud de lo dispuesto en los artículos 8 y 32.1, p&aacute;rrafo segundo, de la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, la distribución y la comunicación p&uacute;blica, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta p&aacute;gina web, con fines comerciales, en cualquier soporte y por cualquier medio t&eacute;cnico, sin la autorización de dkpiles.es. El usuario se compromete a respetar los derechos de Propiedad Intelectual e Industrial titularidad de dkpiles.es.</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">El usuario conoce y acepta que la totalidad del sitio web, conteniendo sin car&aacute;cter exhaustivo el texto, software, contenidos (incluyendo estructura, selección, ordenación y presentación de los mismos) podcast, fotografías, material audiovisual y gr&aacute;ficos, est&aacute; protegida por marcas, derechos de autor y otros derechos legítimos, de acuerdo con los tratados internacionales en los que España es parte y otros derechos de propiedad y leyes de España. En el caso de que un usuario o un tercero consideren que se ha producido una violación de sus legítimos derechos de propiedad intelectual por la introducción de un determinado contenido en la web, deber&aacute; notificar dicha circunstancia a dkpiles.es indicando:</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-left: 36pt;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Datos personales del interesado titular de los derechos presuntamente infringidos, o indicar la representación con la que act&uacute;a en caso de que la reclamación la presente un tercero distinto del interesado.</span></p>
-            <ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
-                <li dir="ltr" style="list-style-type:none;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-                   Señalar los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en la web, la acreditación de los derechos de propiedad intelectual señalados y declaración expresa en la que el interesado se responsabiliza de la veracidad de las informaciones facilitadas en la notificación
-                </li>
-                <li dir="ltr" style="list-style-type:none;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><br></li>
-            </ul>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">ENLACES EXTERNOS</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Las p&aacute;ginas de la web dkpiles.es podrían proporcionar enlaces a otros sitios web propios y contenidos que son propiedad de terceros. El &uacute;nico objeto de los enlaces es proporcionar al Usuario la posibilidad de acceder a dichos enlaces. dkpiles.es no se responsabiliza en ning&uacute;n caso de los resultados que puedan derivarse al Usuario por acceso a dichos enlaces.</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Asimismo, el usuario encontrar&aacute; dentro de este sitio, p&aacute;ginas, promociones, programas de afiliados que acceden a los h&aacute;bitos de navegación de los usuarios para establecer perfiles. Esta información siempre es anónima y no se identifica al usuario.</span></p>
-            <p><br></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">La Información que se proporcione en estos Sitios patrocinados o enlaces de afiliados est&aacute; sujeta a las políticas de privacidad que se utilicen en dichos Sitios y no estar&aacute; sujeta a esta política de privacidad. Por lo que recomendamos ampliamente a los Usuarios a revisar detalladamente las políticas de privacidad de los enlaces de afiliado.</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">El Usuario que se proponga establecer cualquier dispositivo t&eacute;cnico de enlace desde su sitio web al portal dkpiles.es deber&aacute; obtener la autorización previa y escrita de dkpiles.es El establecimiento del enlace no implica en ning&uacute;n caso la existencia de relaciones entre dkpiles.es y el propietario del sitio en el que se establezca el enlace, ni la aceptación o aprobación por parte de dkpiles.es de sus contenidos o servicios</span></p>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">POLíTICA DE COMENTARIOS</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">En nuestra web se permiten realizar comentarios para enriquecer los contenidos y realizar consultas. No se admitir&aacute;n comentarios que no est&eacute;n relacionados con la tem&aacute;tica de esta web, que incluyan difamaciones, agravios, insultos, ataques personales o faltas de respeto en general hacia el autor o hacia otros miembros. Tambi&eacute;n ser&aacute;n suprimidos los comentarios que contengan información que sea obviamente engañosa o falsa, así como los comentarios que contengan información personal, como, por ejemplo, domicilios privado o tel&eacute;fonos y que vulneren nuestra política de protección de datos.</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Se desestimar&aacute;, igualmente, aquellos comentarios creados sólo con fines promocionales de una web, persona o colectivo y todo lo que pueda ser considerado spam en general.</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">No se permiten comentarios anónimos, así como aquellos realizados por una misma persona con distintos apodos. No se considerar&aacute;n tampoco aquellos comentarios que intenten forzar un debate o una toma de postura por otro usuario.</span></p>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">EXCLUSIóN DE GARANTíAS Y RESPONSABILIDAD</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">El Prestador no otorga ninguna garantía ni se hace responsable, en ning&uacute;n caso, de los daños y perjuicios de cualquier naturaleza que pudieran traer causa de:</span></p>
-            <ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
-                <li>
-                    La falta de disponibilidad, mantenimiento y efectivo funcionamiento de la web, o de sus servicios y contenidos
-                </li>
-                <li>
-                    La existencia de virus, programas maliciosos o lesivos en los contenidos</span></span>
-                </li>
-                <li>
-                    El uso ilícito, negligente, fraudulento o contrario a este Aviso Legal</span></span>
-                </li>
-                <li>
-                    La falta de licitud, calidad, fiabilidad, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los usuarios en el sitio web</span></span>
-                </li>
-                <li>
-                    El prestador no se hace responsable bajo ning&uacute;n concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente p&aacute;gina web</span></span>
-                </li>
-                <li dir="ltr" style="list-style-type:none;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><br></li>
-            </ul>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">LEY APLICABLE Y JURISDICCIóN</span></h3>
-            <span dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Con car&aacute;cter general las relaciones entre dkpiles.es con los Usuarios de sus servicios telem&aacute;ticos, presentes en esta web se encuentran sometidas a la legislación y jurisdicción españolas y a los tribunales.</span></span>
-            <p><br></p>
-            <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">CONTACTO</span></h3>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">En caso de que cualquier Usuario tuviese alguna duda acerca de estas Condiciones legales o cualquier comentario sobre el portal dkpiles.es, por favor diríjase a&nbsp;</span><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#039be5;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">DKPiles@gmail.com</span></p>
-            <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">De parte del equipo que formamos Club N&aacute;utico DKPiles te agradecemos el tiempo dedicado en leer este Aviso Legal</span></p>       
+            <section class="legal">
+                <h1>Aviso legal y términos de uso</h1>
+                <p>En este espacio, el USUARIO, podrá encontrar toda la información relativa a los términos y condiciones legales que definen las relaciones entre los usuarios y 
+                    nosotros como responsables de esta web. Como usuario, es importante que conozcas estos términos antes de continuar tu navegación. 
+                    Club Náutico DKPiles, como responsable de esta web, asume el compromiso de procesar la información de nuestros usuarios y clientes con plenas 
+                    garantías y cumplir con los requisitos nacionales y europeos que regulan la recopilación y uso de los datos personales de nuestros usuarios. 
+                    Esta web, por tanto, cumple rigurosamente con el RGPD (REGLAMENTO (UE) 2016/679 de protección de datos) y la LSSI-CE la Ley 34/2002, de 11 de julio, 
+                    de servicios de la sociedad de la información y de comercio electrónico.</p>
+        
+                <h2>CONDICIONES GENERALES DE USO</h2>
+                
+                <p>Las presentes Condiciones Generales regulan el uso (incluyendo el mero acceso) de las páginas de la web, integrantes del sitio web de dkpiles.es 
+                    incluidos los contenidos y servicios puestos a disposición en ellas. Toda persona que acceda a la web, dkpiles.es (“Usuario”) acepta someterse a las 
+                    Condiciones Generales vigentes en cada momento del portal dkpiles.es</p>
+          
+
+                <h2>DATOS PERSONALES QUE RECABAMOS Y CÓMO LO HACEMOS</h2>
+                <p>Leer Política de Privacidad</p>
+                
+
+                <h2>COMPROMISOS Y OBLIGACIONES DE LOS USUARIOS</h2>
+                <p>El Usuario queda informado, y acepta, que el acceso a la presente web no supone, en modo alguno, el inicio de una relación comercial con dkpiles.es. De esta forma, 
+                    el usuario se compromete a utilizar el sitio Web, sus servicios y contenidos sin contravenir la legislación vigente, la buena fe y el orden público.
+                Queda prohibido el uso de la web, con fines ilícitos o lesivos, o que, de cualquier forma, puedan causar perjuicio o impedir el normal funcionamiento del sitio web.
+                 Respecto de los contenidos de esta web, se prohíbe: 
+                Su reproducción, distribución o modificación, total o parcial, a menos que se cuente con la autorización de sus legítimos titulares
+                Cualquier vulneración de los derechos del prestador o de los legítimos titulares
+                Su utilización para fines comerciales o publicitarios.
+                En la utilización de la web, dkpiles.es, el Usuario se compromete a no llevar a cabo ninguna conducta que pudiera dañar la imagen, los intereses y los derechos de 
+                dkpiles.es o de terceros o que pudiera dañar, inutilizar o sobrecargar el portal dkpiles.es o que impidiera, de cualquier forma, la normal utilización de la web. 
+                No obstante, el Usuario debe ser consciente de que las medidas de seguridad de los sistemas informáticos en Internet no son enteramente fiables y que, por tanto dkpiles.es 
+                no puede garantizar la inexistencia de virus u otros elementos que puedan producir alteraciones en los sistemas informáticos (software y hardware) del Usuario o en sus 
+                documentos electrónicos y ficheros contenidos en los mismos.</p>
+                
+      
+                <h2>MEDIDAS DE SEGURIDAD</h2>
+                <p>Los datos personales comunicados por el usuario a dkpiles.es pueden ser almacenados en bases de datos automatizadas o no, cuya titularidad corresponde en exclusiva a 
+                    dkpiles.es, asumiendo ésta todas las medidas de índole técnica, organizativa y de seguridad que garantizan la confidencialidad, integridad y calidad de la información 
+                    contenida en las mismas de acuerdo con lo establecido en la normativa vigente en protección de datos.</p>
+ 
+                <p>La comunicación entre los usuarios y dkpiles.es utiliza un canal seguro, y los datos transmitidos son cifrados gracias a protocolos a https, por tanto, garantizamos las mejores condiciones de seguridad para que la confidencialidad de los usuarios esté garantizada.</p>
+   
+
+                <h2>RECLAMACIONES</h2>
+
+                <p>dkpiles.es informa que existen hojas de reclamación a disposición de usuarios y clientes. El Usuario podrá realizar reclamaciones solicitando su hoja de reclamación o 
+                    remitiendo un correo electrónico a DKPiles@gmail.com indicando su nombre y apellidos, el servicio y/o producto adquirido y exponiendo los motivos de su reclamación.</p>
+    
+
+                <p>El usuario/comprador podrá notificarnos la reclamación, bien a través de correo electrónico a: DKPiles@gmail.com, si lo desea adjuntando el siguiente formulario de 
+                    reclamación: 
+                El servicio/producto: 
+                Adquirido el día: 
+                Nombre del usuario: 
+                Domicilio del usuario: 
+                Firma del usuario (solo si se presenta en papel): 
+                Fecha: 
+                Motivo de la reclamación:</p>
+
+                <h2>PLATAFORMA DE RESOLUCIÓN DE CONFLICTOS</h2>
+                <p>Por si puede ser de tu interés, para someter tus reclamaciones puedes utilizar también la plataforma de resolución de litigios que facilita la Comisión Europea y 
+                    que se encuentra disponible en el siguiente enlace: http://ec.europa.eu/consumers/odr/</p>
+    
+                <h2>DERECHOS DE PROPIEDAD INTELECTUAL E INDUSTRIAL</h2>
+                <p>En virtud de lo dispuesto en los artículos 8 y 32.1, párrafo segundo, de la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, 
+                    la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, 
+                    con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de dkpiles.es. El usuario se compromete a respetar los derechos 
+                    de Propiedad Intelectual e Industrial titularidad de dkpiles.es.
+                El usuario conoce y acepta que la totalidad del sitio web, conteniendo sin carácter exhaustivo el texto, software, contenidos (incluyendo estructura, selección, 
+                ordenación y presentación de los mismos) podcast, fotografías, material audiovisual y gráficos, está protegida por marcas, derechos de autor y otros derechos legítimos, 
+                de acuerdo con los tratados internacionales en los que España es parte y otros derechos de propiedad y leyes de España. En el caso de que un usuario o un tercero consideren
+                 que se ha producido una violación de sus legítimos derechos de propiedad intelectual por la introducción de un determinado contenido en la web, deberá notificar dicha
+                  circunstancia a dkpiles.es indicando:
+                Datos personales del interesado titular de los derechos presuntamente infringidos, o indicar la representación con la que actúa en caso de que la reclamación la presente 
+                un tercero distinto del interesado.
+                Señalar los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en la web, la acreditación de los derechos de propiedad intelectual señalados
+                 y declaración expresa en la que el interesado se responsabiliza de la veracidad de las informaciones facilitadas en la notificación</p>
+
+
+                <h2>ENLACES EXTERNOS</h2>
+                <p>Las páginas de la web dkpiles.es podrían proporcionar enlaces a otros sitios web propios y contenidos que son propiedad de terceros. El único objeto de los enlaces es 
+                    proporcionar al Usuario la posibilidad de acceder a dichos enlaces. dkpiles.es no se responsabiliza en ningún caso de los resultados que puedan derivarse al Usuario 
+                    por acceso a dichos enlaces.
+                Asimismo, el usuario encontrará dentro de este sitio, páginas, promociones, programas de afiliados que acceden a los hábitos de navegación de los usuarios para establecer
+                 perfiles. Esta información siempre es anónima y no se identifica al usuario.</p>
+ 
+                <p>La Información que se proporcione en estos Sitios patrocinados o enlaces de afiliados está sujeta a las políticas de privacidad que se utilicen en dichos Sitios y 
+                    no estará sujeta a esta política de privacidad. Por lo que recomendamos ampliamente a los Usuarios a revisar detalladamente las políticas de privacidad de los 
+                    enlaces de afiliado.
+                El Usuario que se proponga establecer cualquier dispositivo técnico de enlace desde su sitio web al portal dkpiles.es deberá obtener la autorización previa y escrita 
+                de dkpiles.es El establecimiento del enlace no implica en ningún caso la existencia de relaciones entre dkpiles.es y el propietario del sitio en el que se establezca 
+                el enlace, ni la aceptación o aprobación por parte de dkpiles.es de sus contenidos o servicios</p>
+
+                <h2>POLÍTICA DE COMENTARIOS</h2>
+                <p>                En nuestra web se permiten realizar comentarios para enriquecer los contenidos y realizar consultas. No se admitirán comentarios que no estén relacionados
+                     con la temática de esta web, que incluyan difamaciones, agravios, insultos, ataques personales o faltas de respeto en general hacia el autor o hacia otros miembros. 
+                     También serán suprimidos los comentarios que contengan información que sea obviamente engañosa o falsa, así como los comentarios que contengan información personal, 
+                     como, por ejemplo, domicilios privado o teléfonos y que vulneren nuestra política de protección de datos.
+                Se desestimará, igualmente, aquellos comentarios creados sólo con fines promocionales de una web, persona o colectivo y todo lo que pueda ser considerado spam en general.
+                No se permiten comentarios anónimos, así como aquellos realizados por una misma persona con distintos apodos. No se considerarán tampoco aquellos comentarios que intenten
+                 forzar un debate o una toma de postura por otro usuario.</p>
+
+                <h2>EXCLUSIÓN DE GARANTÍAS Y RESPONSABILIDAD</h2>
+                <p>El Prestador no otorga ninguna garantía ni se hace responsable, en ningún caso, de los daños y perjuicios de cualquier naturaleza que pudieran traer causa de:
+                La falta de disponibilidad, mantenimiento y efectivo funcionamiento de la web, o de sus servicios y contenidos
+                La existencia de virus, programas maliciosos o lesivos en los contenidos
+                El uso ilícito, negligente, fraudulento o contrario a este Aviso Legal
+                La falta de licitud, calidad, fiabilidad, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los usuarios en el sitio web
+                El prestador no se hace responsable bajo ningún concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente página web</p>
+                
+
+                <h2>LEY APLICABLE Y JURISDICCIÓN</h2>
+                <p>Con carácter general las relaciones entre dkpiles.es con los Usuarios de sus servicios telemáticos, presentes en esta web se encuentran sometidas a la legislación y jurisdicción españolas y a los tribunales.</p>
+       
+                <h2>CONTACTO</h2>
+                <p>En caso de que cualquier Usuario tuviese alguna duda acerca de estas Condiciones legales o cualquier comentario sobre el portal dkpiles.es, por favor diríjase a 
+                    DKPiles@gmail.com
+                De parte del equipo que formamos Club Náutico DKPiles te agradecemos el tiempo dedicado en leer este Aviso Legal</p>
+                
+            </section>  
         </main>
 
         <!-- ASIDE -->
