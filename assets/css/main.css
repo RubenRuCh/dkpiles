@@ -534,6 +534,10 @@ footer .copyright {
   margin-bottom:0;
 }
 
+footer .modal-body{
+  background-color: var(--dark-blue);
+}
+
 
 /* Carrusel arrows */
 .carousel-control-next,
