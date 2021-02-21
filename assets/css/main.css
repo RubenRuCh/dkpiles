@@ -491,14 +491,14 @@ footer {
 
 
 /* Carousel height */
-div.carousel-item > *{
+div.carousel-item > *:first{
   height: 75vh;
 }
 
 
 /* Small tablets */
 @media (min-width: 768px) {
-  div.carousel-item > *{
+  div.carousel-item > *:first{
     height: 65vh;
   }
 }

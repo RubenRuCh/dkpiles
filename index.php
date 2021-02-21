@@ -97,7 +97,7 @@
                     <!-- MOSTRAR DATOS ESTACIÓN METEOR -->
                     <div class="carousel-item">
                       <!-- <div class="d-block w-100" id="wgs_widget_51_1403353076147"></div> -->
-                      <iframe src="https://www.meteoblue.com/en/weather/widget/three/piles_spain_2512571?geoloc=fixed&nocurrent=0&noforecast=0&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&layout=image"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 100%; height: 65vh"></iframe>
+                      <iframe src="https://www.meteoblue.com/en/weather/widget/three/piles_spain_2512571?geoloc=fixed&nocurrent=0&noforecast=0&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&layout=image"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 100%;"></iframe>
                       <div><a hidden="true" href="https://www.meteoblue.com/en/weather/week/index?utm_source=weather_widget&utm_medium=linkus&utm_content=three&utm_campaign=Weather%2BWidget" target="_blank">meteoblue</a></div>
                     </div>
 
