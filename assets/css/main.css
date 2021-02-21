@@ -332,7 +332,7 @@ section.languages{
   align-content: space-evenly;
   columns: 2;
   border: 1px solid lightgrey;
-  border-radius: 2rem;
+  border-radius: 0.5rem;
 }
 
 section.languages > img{
