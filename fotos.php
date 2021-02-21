@@ -64,11 +64,11 @@
                 // Add smooth scroll when loading more photos
                 $(".eapps-instagram-feed-posts-grid-load-more-text-visible").click(() => {
                     setTimeout(() => {
-                        $('html, body, main, div.eapps-instagram-feed-posts-inner').animate({
+                        $('main, div.eapps-instagram-feed-posts-inner').animate({
                             scrollTop: $(this).scrollHeight}, 1000);
                     }, 2000);
 
-                    $('html, body, main, div.eapps-instagram-feed-posts-inner').scrollTop($(this).scrollHeight);
+                    $('div.eapps-instagram-feed-posts-inner').scrollTop($(this).scrollHeight);
                 });;
 
             }, 3000);
