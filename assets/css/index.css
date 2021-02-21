@@ -68,7 +68,7 @@ section.webcam div#webcam-visor img{
 
 @media (min-width: 768px) {
     section.webcam div#webcam-visor{
-        min-height: 60vh;
+        min-height: 65vh;
     }
 
 }

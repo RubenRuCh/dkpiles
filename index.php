@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="./assets/css/index.css">
 
     <script src="./scripts/js/main.js"></script>
-    <script id="widg" src="http://www.windguru.cz/js/wgs_widget"></script>
+    <!--<script id="widg" src="http://www.windguru.cz/js/wgs_widget"></script>-->
 </head>
 <body>
     <div class="container">
@@ -96,7 +96,9 @@
 
                     <!-- MOSTRAR DATOS ESTACIÓN METEOR -->
                     <div class="carousel-item">
-                      <div class="d-block w-100" id="wgs_widget_51_1403353076147"></div> 
+                      <!-- <div class="d-block w-100" id="wgs_widget_51_1403353076147"></div> -->
+                      <iframe src="https://www.meteoblue.com/en/weather/widget/three?geoloc=detect&nocurrent=0&noforecast=0&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&layout=image"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 805px; height: 618px"></iframe>
+                      <div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/index?utm_source=weather_widget&utm_medium=linkus&utm_content=three&utm_campaign=Weather%2BWidget" target="_blank">meteoblue</a></div>
                     </div>
 
 
@@ -207,6 +209,7 @@
     </script>
 
     <!-- Prev -->
+    <!--
     <script type="text/javascript">
         function llamarWidget(){
             WgsWidget({
@@ -222,6 +225,7 @@
         llamarWidget();
         setInterval(llamarWidget,60000);/* Quitar si no queréis que actualice */
     </script>
+      -->
 
 
   <!--Script refresh de paginas-->
