@@ -10,11 +10,11 @@
 
 .eapps-instagram-feed-posts-grid-load-more-text-visible {
     cursor: pointer;
-    outline: none;
     color: #fff;
     background-color: #109499;
-    border: none;
     box-shadow: 0 9px #999;
+    border: 1px solid lightgrey;
+    border-radius: 1rem;
   }
 
 .eapps-instagram-feed-posts-grid-load-more-text-visible:hover {background-color: #1a29ad}
