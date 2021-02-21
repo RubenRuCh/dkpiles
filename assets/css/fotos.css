@@ -8,7 +8,7 @@
 }
 
 
-div.scrollable .eapps-instagram-feed-posts-grid-load-more-text-visible {
+.eapps-instagram-feed-posts-grid-load-more-text-visible {
     padding: 15px 25px;
     font-size: 24px;
     text-align: center;
@@ -20,10 +20,10 @@ div.scrollable .eapps-instagram-feed-posts-grid-load-more-text-visible {
     border-radius: 15px;
     box-shadow: 0 9px #999;
   }
+
+.eapps-instagram-feed-posts-grid-load-more-text-visible:hover {background-color: #1a29ad}
   
-  div.scrollable .eapps-instagram-feed-posts-grid-load-more-text-visible:hover {background-color: #1a29ad}
-  
-  div.scrollable .eapps-instagram-feed-posts-grid-load-more-text-visible:active {
+.eapps-instagram-feed-posts-grid-load-more-text-visible:active {
     background-color: #370f77;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
