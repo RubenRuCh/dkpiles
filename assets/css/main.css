@@ -323,9 +323,8 @@ div.pc .topnav li.current a {
 
 /* Languages */
 header div.pc section#languages{
-  visibility: hidden;
   flex: 10%;
-  display: flex;
+  display: none;
   flex-direction: row;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -344,7 +343,7 @@ header div.pc section#languages > img{
 
 @media (min-width: 1350px) {
   header div.pc section#languages{
-    visibility: visible;
+    display: flex;
   }
 }
 
