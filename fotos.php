@@ -48,8 +48,12 @@
         const hideElfsightAdd = function(){ 
             setTimeout(() => {
                 document.querySelector('a.eapps-link').style.display = 'none';
-                $("div.eapps-widget-show-toolbar").attr("style","overflow: hidden !important; overflow-y: auto !important;");
                }, 1000);
+
+               setTimeout(() => {
+                $("div.eapps-widget-show-toolbar").addClass('scrollable');
+               }, 3000);
+               
         };
     </script>
 </body>
