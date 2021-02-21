@@ -37,13 +37,13 @@
             <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">El Usuario queda informado, y acepta, que el acceso a la presente web no supone, en modo alguno, el inicio de una relación comercial con dkpiles.es. De esta forma, el usuario se compromete a utilizar el sitio Web, sus servicios y contenidos sin contravenir la legislación vigente, la buena fe y el orden p&uacute;blico.</span></p>
             <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Queda prohibido el uso de la web, con fines ilícitos o lesivos, o que, de cualquier forma, puedan causar perjuicio o impedir el normal funcionamiento del sitio web. Respecto de los contenidos de esta web, se prohíbe:&nbsp;</span></p>
             <ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
-                <li dir="ltr" style="list-style-type:disc;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+                <li>
                     Su reproducción, distribución o modificación, total o parcial, a menos que se cuente con la autorización de sus legítimos titulares
                 </li>
-                <li dir="ltr" style="list-style-type:disc;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+                <li>
                    Cualquier vulneración de los derechos del prestador o de los legítimos titulares
                 </li>
-                <li dir="ltr" style="list-style-type:disc;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+                <li>
                     Su utilización para fines comerciales o publicitarios.
                 </li>
             </ul>
@@ -96,19 +96,19 @@
             <h3 dir="ltr" style="line-height:1.76;margin-top:14pt;margin-bottom:4pt;"><span style="font-size:13.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">EXCLUSIóN DE GARANTíAS Y RESPONSABILIDAD</span></h3>
             <p dir="ltr" style="line-height:1.68;margin-top:11pt;margin-bottom:11pt;"><span style="font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">El Prestador no otorga ninguna garantía ni se hace responsable, en ning&uacute;n caso, de los daños y perjuicios de cualquier naturaleza que pudieran traer causa de:</span></p>
             <ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
-                <li dir="ltr" style="list-style-type:disc;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+                <li>
                     La falta de disponibilidad, mantenimiento y efectivo funcionamiento de la web, o de sus servicios y contenidos
                 </li>
-                <li dir="ltr" style="list-style-type:disc;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+                <li>
                     La existencia de virus, programas maliciosos o lesivos en los contenidos</span></span>
                 </li>
-                <li dir="ltr" style="list-style-type:disc;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+                <li>
                     El uso ilícito, negligente, fraudulento o contrario a este Aviso Legal</span></span>
                 </li>
-                <li dir="ltr" style="list-style-type:disc;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+                <li>
                     La falta de licitud, calidad, fiabilidad, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los usuarios en el sitio web</span></span>
                 </li>
-                <li dir="ltr" style="list-style-type:disc;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+                <li>
                     El prestador no se hace responsable bajo ning&uacute;n concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente p&aacute;gina web</span></span>
                 </li>
                 <li dir="ltr" style="list-style-type:none;font-size:11.5pt;font-family:Roboto,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><br></li>
