@@ -55,7 +55,7 @@
 
                 var styles = "overflow: hidden !important; overflow-y: auto !important; -webkit-overflow-scrolling: touch !important;";
 
-                if(window.matchMedia("(min-width: 768px)").matches){
+                if(window.matchMedia("(max-width: 768px)").matches){
                     styles += "max-height: 55vh;";
                 }
 
