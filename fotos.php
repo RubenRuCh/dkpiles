@@ -47,10 +47,12 @@
         // Clear elfsight addy
         const hideElfsightAdd = function(){ 
             setTimeout(() => {
-                document.querySelector('a.eapps-link').style.display = 'none';
+                $('a.eapps-link').hide();
                }, 1000);
 
             setTimeout(() => {
+                $('a.eapps-link').hide();
+
                 $("div.eapps-instagram-feed-posts-inner").addClass('scrollable');
 
                 var styles = "overflow: hidden !important; overflow-y: auto !important; -webkit-overflow-scrolling: touch !important;";
