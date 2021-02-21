@@ -436,18 +436,18 @@ aside section.windy{
   }
 }
 
-
-
-
 @media (min-width: 768px) {
   aside { 
+    display: block;
     border-bottom-left-radius: 0.5rem;
     border-top-right-radius: 0;
+    /*
     grid-template-columns: 1fr;
     grid-template-rows: auto;
     grid-template-areas: "log" 
                          "wdy" 
                          "nws" ;
+    */
   }
   
 
