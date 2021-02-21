@@ -65,7 +65,7 @@
                     setTimeout(() => {
                     console.log($("div.eapps-instagram-feed-posts-view:last"));
                     console.log($("div.eapps-instagram-feed-posts-view:last").offset().top);
-                    $('html, body').animate({
+                    $('html, body, main, div.eapps-instagram-feed-posts-inner').animate({
                         scrollTop: $("div.eapps-instagram-feed-posts-view:last").offset().top
                     }, 1000);
                 }, 1000);
