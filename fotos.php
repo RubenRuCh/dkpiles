@@ -66,8 +66,7 @@
                     setTimeout(() => {
                         $('div.eapps-instagram-feed-posts-inner').animate({
                             scrollTop: $("div.eapps-instagram-feed-posts-inner")[0].scrollHeight}, 1000);
-                    }, 2000);
-
+                    }, 1000);
                 });;
 
             }, 3000);
