@@ -331,11 +331,13 @@ header div.pc section#languages{
   align-items: center;
   align-content: space-evenly;
   columns: 2;
+  border: 1px solid lightgrey;
 }
 
 header div.pc section#languages > img{
   margin: 0.5rem;
   width: 4rem;
+  cursor: pointer;
 }
 
 
