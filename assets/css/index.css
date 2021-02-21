@@ -1,0 +1,86 @@
+@charset "UTF-8";
+main {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+  -ms-grid-rows: auto;
+      grid-template-rows: auto;
+}
+
+main > section {
+  border: 1px solid var(--oceanic-blue);
+  border-radius: 2rem;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  background-color: var(--sea-blue);
+  color: white;
+}
+
+main > section > div {
+  border-radius: 1rem;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  background-color: var(--blue);
+}
+
+main > section.weatherCarrousel div.carousel-inner > div {
+  width: 100%;
+}
+
+/* Avoid carusel going over mobile menu */
+.carousel.mobileMenu {
+  z-index: -1;
+}
+
+/* Instagram API */
+section.smallInstagramAPI div#carouselPhotosSmall {
+  margin: 0 auto;
+}
+
+/* Webcam */
+/* Dadle estilo al reloj vosotros */
+section.webcam div#hora {
+  font-family: monospace;
+  color: white;
+  border: 0.3rem solid var(--dark-blue);
+  border-radius: 5rem;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 0.5rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* Dadle estilo a la webcam si queréis */
+section.webcam {
+  width: 100%;
+}
+
+section.webcam div#webcam-visor {
+  width: 100%;
+  height: 30vh;
+}
+
+section.webcam div#webcam-visor img {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  section.webcam div#webcam-visor {
+    min-height: 65vh;
+  }
+}
+
+/* Prevision carousel height */
+div#prevision > *:first-child {
+  height: 75vh;
+}
+
+@media (min-width: 768px) {
+  div#prevision > *:first-child {
+    height: 65vh;
+  }
+}
+/*# sourceMappingURL=index.css.map */

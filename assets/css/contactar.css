@@ -1,0 +1,62 @@
+section.containerContact {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+      grid-template-areas: "cfo" "clo";
+}
+
+section.containerContact > section {
+  margin: 1rem 0;
+}
+
+section.containerContact section.contactForm {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  grid-area: cfo;
+}
+
+section.containerContact section.clubLocation {
+  -ms-grid-row: 2;
+  -ms-grid-column: 1;
+  grid-area: clo;
+}
+
+section.containerContact section.contactForm h2 {
+  display: none;
+}
+
+section.containerContact section.clubLocation > iframe {
+  width: 100%;
+  height: 50vh;
+}
+
+@media (min-width: 768px) {
+  main {
+    margin: 0;
+  }
+  section.containerContact > section {
+    border: 1px solid var(--oceanic-blue);
+    border-radius: 1rem;
+    padding: 1rem;
+    background-color: lightgrey;
+  }
+  section.containerContact {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "cfo clo";
+  }
+  section.containerContact section.contactForm {
+    margin-right: 1rem;
+  }
+  section.containerContact section.contactForm h2 {
+    display: block;
+  }
+  section.containerContact section.clubLocation {
+    margin-left: 1rem;
+  }
+  section.containerContact section.clubLocation > iframe {
+    height: 80vh;
+  }
+}
+/*# sourceMappingURL=contactar.css.map */

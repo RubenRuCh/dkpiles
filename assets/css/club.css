@@ -1,0 +1,108 @@
+/* Submenu */
+/* Add a black background color to the top navigation */
+nav.submenu ul.topnav {
+  background-color: var(--black);
+  overflow: hidden;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  width: 100%;
+}
+
+/* Style the links inside the navigation bar */
+nav.submenu ul.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 0.1rem;
+  text-decoration: none;
+  width: 25%;
+  height: 2.5rem;
+  border: 1px solid lightgrey;
+  line-height: 2rem;
+}
+
+/* Change the color of links on hover */
+nav.submenu ul.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+nav.submenu ul.topnav a.subcurrent {
+  background-color: var(--blue);
+  color: white;
+}
+
+@media (min-width: 768px) {
+  main {
+    padding-top: 0 !important;
+  }
+}
+
+/* Submain */
+section.submain {
+  display: table;
+  margin: 0 auto;
+}
+
+section.submain ul * {
+  list-style: initial;
+}
+
+/* Carousel */
+section.beach .mobileMenu {
+  z-index: -1 !important;
+}
+
+/* History */
+section.history {
+  margin: 1rem;
+}
+
+section.history ul.directiva {
+  margin: 2rem 0 2rem 2rem;
+}
+
+/* Lema */
+span.lema {
+  font-style: italic;
+  font-size: larger;
+}
+
+/* Requeriments */
+section.submain section.requisitos {
+  margin: 0 auto;
+  font-size: 120%;
+  display: inline-block;
+}
+
+section.submain section.requisitos ul {
+  margin: 2rem 0 2rem 2rem;
+}
+
+button#downloadDoc {
+  white-space: normal;
+}
+
+@media (min-width: 768px) {
+  section.submain section.requisitos {
+    font-size: 150%;
+  }
+}
+
+/* Winds */
+section.submain section.winds img {
+  width: 100%;
+  height: auto;
+}
+
+/* Offers */
+section.nauticalOffers {
+  margin-top: 2rem;
+}
+
+section.nauticalOffers .mobileMenu {
+  z-index: -1 !important;
+}
+/*# sourceMappingURL=club.css.map */
