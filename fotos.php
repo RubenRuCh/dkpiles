@@ -52,7 +52,7 @@
 
             setTimeout(() => {
                 $("div.eapps-instagram-feed-posts-inner").addClass('scrollable');
-                $("div.eapps-instagram-feed-posts-inner").attr('style', 'height: 40vh; overflow: hidden !important; overflow-y: auto !important; -webkit-overflow-scrolling: touch !important;');
+                $("div.eapps-instagram-feed-posts-inner").attr('style', 'height: 55vh; overflow: hidden !important; overflow-y: auto !important; -webkit-overflow-scrolling: touch !important;');
             }, 3000);
                
         };
