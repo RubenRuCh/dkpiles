@@ -11,7 +11,7 @@
 .eapps-instagram-feed-posts-grid-load-more-text-visible {
     cursor: pointer;
     color: #fff;
-    background: none;
+    background: none !important;
     background-color: #109499;
     box-shadow: 0 9px #999;
     border: 1px solid lightgrey;
