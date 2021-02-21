@@ -72,3 +72,18 @@ section.webcam div#webcam-visor img{
     }
 
 }
+
+
+
+/* Prevision carousel height */
+div#prevision > *:first-child{
+    height: 75vh;
+  }
+  
+  
+
+  @media (min-width: 768px) {
+    div#prevision > *:first-child{
+      height: 65vh;
+    }
+  }
