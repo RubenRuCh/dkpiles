@@ -18,15 +18,15 @@
   border-radius: 1rem;
 }
 
-.eapps-instagram-feed-posts-grid-load-more {
-  background: none !important;
-}
-
 .eapps-instagram-feed-posts-grid-load-more-text-visible:active {
   background-color: #109499;
   -webkit-box-shadow: 0 5px #666;
           box-shadow: 0 5px #666;
   -webkit-transform: translateY(4px);
           transform: translateY(4px);
+}
+
+.eapps-instagram-feed-posts-grid-load-more {
+  background: none !important;
 }
 /*# sourceMappingURL=fotos.css.map */

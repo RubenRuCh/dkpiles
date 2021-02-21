@@ -1,40 +1,4 @@
 /* RESET */
-/* By default, show mobile divs and hide pc ones */
-/* On PC views, show pc divs and hide mobile divs */
-/* HEADER */
-/* MENU STYLES */
-/* Hamburger Line */
-/* Hamburger Lines - Top & Bottom */
-/* Moves Line Down */
-/* Toggler Animation */
-/* Turns Lines Into X */
-/* Rotate On Hover When Checked */
-/* Show Menu */
-/* Add a black background color to the top navigation */
-/* Style the links inside the navigation bar */
-/* Change the color of links on hover */
-/* Add an active class to highlight the current page */
-/* Languages */
-/** MAIN **/
-/** ASIDE **/
-/*
-#windyModal .modal-dialog {
-  
-  width: 96%;
-  height: 90%;
-  margin: 0;
-  padding: 0; 
-}
-
-#windyModal .modal-content {
-  height: auto;
-  min-height: 90%;
-  border-radius: 0;
-}
-*/
-/* Small tablets */
-/** FOOTER **/
-/* Carrusel arrows */
 * {
   padding: 0;
   margin: 0;
@@ -56,6 +20,7 @@
   --menu-speed: 0.75s;
 }
 
+/* General */
 html {
   width: 100%;
   height: 100%;
@@ -95,6 +60,7 @@ div.container {
       grid-template-areas: "hed" "mai" "asi" "fot";
 }
 
+/* By default, show mobile divs and hide pc ones */
 div.mobile {
   display: block;
 }
@@ -145,6 +111,7 @@ div.pc .topnav li.current a {
   color: white;
 }
 
+/* HEADER */
 header {
   display: -ms-grid;
   display: grid;
@@ -164,6 +131,7 @@ header section#logo {
   background-color: #0542A8;
 }
 
+/* MENU STYLES */
 .menu-wrap {
   width: 100%;
   height: 100%;
@@ -347,6 +315,7 @@ header section#logo {
   color: #0094c6;
 }
 
+/* Languages */
 section.languages {
   -webkit-box-flex: 10%;
       -ms-flex: 10%;
@@ -379,6 +348,7 @@ section.languages > img {
   cursor: pointer;
 }
 
+/** MAIN **/
 main {
   -ms-grid-row: 2;
   -ms-grid-column: 1;
@@ -388,6 +358,7 @@ main {
   padding: 0 1rem;
 }
 
+/** ASIDE **/
 aside {
   -ms-grid-row: 3;
   -ms-grid-column: 1;
@@ -433,6 +404,7 @@ aside section.windy {
   height: 35rem;
 }
 
+/** FOOTER **/
 footer {
   -ms-grid-row: 4;
   -ms-grid-column: 1;
@@ -501,6 +473,7 @@ footer .modal-content {
   background-color: var(--black);
 }
 
+/* Carrusel arrows */
 .carousel-control-next {
   -webkit-filter: invert(100%);
           filter: invert(100%);
@@ -511,6 +484,7 @@ footer .modal-content {
           filter: invert(100%);
 }
 
+/* On PC views, show pc divs and hide mobile divs */
 @media (min-width: 768px) {
   body {
     max-width: 150rem;
