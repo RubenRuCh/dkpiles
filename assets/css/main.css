@@ -488,3 +488,17 @@ footer {
 .carousel-control-prev  {
     filter: invert(100%);
 }
+
+
+/* Carousel height */
+div.carousel-item > *{
+  height: 75vh;
+}
+
+
+/* Small tablets */
+@media (min-width: 768px) {
+  div.carousel-item > *{
+    height: 65vh;
+  }
+}
