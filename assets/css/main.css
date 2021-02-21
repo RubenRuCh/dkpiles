@@ -534,8 +534,8 @@ footer .copyright {
   margin-bottom:0;
 }
 
-footer .modal-body{
-  background-color: var(--dark-blue);
+footer .modal-content{
+  background-color: var(--black);
 }
 
 
