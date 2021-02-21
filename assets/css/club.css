@@ -67,6 +67,14 @@ section.history ul.directiva{
 }
 
 
+/* Lema */
+span.lema{
+    text-align: center;
+    font-style: italic;
+}
+
+
+
 /* Requeriments */
 section.submain section.requisitos{
     margin: 0 auto;
@@ -102,6 +110,5 @@ section.submain section.winds img{
 section.nauticalOffers{
     margin-top: 2rem;
 }
-
 
 section.nauticalOffers .mobileMenu { z-index: -1 !important; }

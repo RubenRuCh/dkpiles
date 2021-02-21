@@ -113,7 +113,7 @@
                         su apoyo e ilusión por hacer realidad la existencia de este club. 
                         Y con el lema: <br><br>
                         <hr>
-                        Trabajar  en invierno, para navegar en verano.
+                        <span class="lema">Trabajar  en invierno, para navegar en verano</span>
                         <hr>
                         <br>
                         Os deseamos buen viento.</b>
